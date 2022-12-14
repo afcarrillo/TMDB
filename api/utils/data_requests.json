@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Alberto",
+    "lastname": "Carrillo",
+    "email": "albertokarri@gmail.com",
+    "password": "1234"
+  },
+  {
+    "email": "albertokarri@gmail.com",
+    "password": "1234"
+  },
+  {
+    "input": "mision imposible"
+  }
+]
